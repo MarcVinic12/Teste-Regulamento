@@ -1,0 +1,1753 @@
+[
+  {
+    "id": "q001",
+    "tipo": "vf",
+    "secao": "1. Regras da competição",
+    "dificuldade": "facil",
+    "enunciado": "As Regras da Seletiva Nacional 2025 são atualizadas pela Coordenação Executiva Nacional (CEN) e aprovadas pela Coordenação Técnica (CT).",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "resposta": false,
+    "explicacao": "Falso. É o contrário: as Regras são atualizadas pela CT WorldSkills Brasil e aprovadas pela CEN.",
+    "referencia": "Seção 1.1, p. 4",
+    "regra_id": "r001"
+  },
+  {
+    "id": "q002",
+    "tipo": "multipla",
+    "secao": "1. Regras da competição",
+    "dificuldade": "facil",
+    "enunciado": "Onde e quando será realizada a competição internacional WorldSkills para a qual a Seletiva Nacional 2025 seleciona competidores?",
+    "opcoes": [
+      "Em Xangai, China, em setembro de 2026",
+      "Em Xangai, China, em setembro de 2025",
+      "Em Xangai, China, em outubro de 2026",
+      "Em Brasília, Brasil, em setembro de 2026"
+    ],
+    "resposta": 0,
+    "explicacao": "O item 1.1 diz que a WorldSkills internacional será em setembro de 2026, em Xangai (China). As demais trocam o ano, o mês ou a cidade.",
+    "referencia": "Seção 1.1, p. 4",
+    "regra_id": "r002"
+  },
+  {
+    "id": "q003",
+    "tipo": "multipla_varias",
+    "secao": "1. Regras da competição",
+    "dificuldade": "medio",
+    "enunciado": "Quais dos itens abaixo são valores fundamentais da Seletiva Nacional 2025? (marque todos que se aplicam)",
+    "opcoes": [
+      "Integridade",
+      "Transferência de Conhecimento",
+      "Excelência",
+      "Transparência",
+      "Justiça",
+      "Inovação"
+    ],
+    "resposta": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explicacao": "Os valores fundamentais são Integridade, Transferência de Conhecimento, Transparência e Justiça. 'Excelência' e 'Inovação' não aparecem nessa lista.",
+    "referencia": "Seção 1.3.5, p. 5",
+    "regra_id": "r008"
+  },
+  {
+    "id": "q004",
+    "tipo": "cenario",
+    "secao": "1. Regras da competição",
+    "dificuldade": "medio",
+    "enunciado": "Durante a preparação, surge um assunto relacionado à competição que ainda não foi abordado pelas regras vigentes. Quem toma a decisão?",
+    "opcoes": [
+      "A Coordenação Executiva Nacional (CEN), sozinha",
+      "O Comitê Técnico da Seletiva (CTS), com aprovação da CT WorldSkills Brasil",
+      "O Avaliador Líder da ocupação, com aprovação do DCTS",
+      "O Departamento Regional anfitrião, com aprovação da CEN"
+    ],
+    "resposta": 1,
+    "explicacao": "O item 1.3.6 atribui ao CTS, com aprovação da CT, as decisões sobre assuntos ainda não abordados pelas regras.",
+    "referencia": "Seção 1.3.6, p. 5",
+    "regra_id": "r009"
+  },
+  {
+    "id": "q005",
+    "tipo": "vf",
+    "secao": "1. Regras da competição",
+    "dificuldade": "facil",
+    "enunciado": "Pelo regulamento, os participantes autorizam o uso de sua imagem e voz de forma gratuita e irretratável.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "resposta": true,
+    "explicacao": "Verdadeiro. O item 1.3.4 diz que os participantes autorizam 'gratuitamente e de modo irretratável' o uso de imagem e voz pelo SENAI-DN e pelas Instituições Participantes.",
+    "referencia": "Seção 1.3.4, p. 5",
+    "regra_id": "r007"
+  },
+  {
+    "id": "q006",
+    "tipo": "multipla",
+    "secao": "1. Regras da competição",
+    "dificuldade": "dificil",
+    "enunciado": "Quando a competição é realizada em unidades escolares SENAI, como é feita a 2ª chamada para definir o local?",
+    "opcoes": [
+      "Por expressão de interesse dos Departamentos Regionais, respondendo ao Edital",
+      "Por indicação da CEN, com aprovação da CT",
+      "Por indicação da CT WorldSkills Brasil, com aprovação da CEN",
+      "Por sorteio entre os Departamentos Regionais interessados"
+    ],
+    "resposta": 2,
+    "explicacao": "A 1ª chamada é por expressão de interesse dos DRs (Edital); a 2ª chamada é por indicação da CT, com aprovação da CEN. Não há previsão de sorteio.",
+    "referencia": "Seção 1.3.1.2, p. 4",
+    "regra_id": "r004"
+  },
+  {
+    "id": "q007",
+    "tipo": "multipla_varias",
+    "secao": "1. Regras da competição",
+    "dificuldade": "facil",
+    "enunciado": "Quais destas são Instituições Participantes (IP) listadas no regulamento? (marque todas que se aplicam)",
+    "opcoes": [
+      "Departamentos Regionais do SENAI",
+      "Departamentos Regionais do SENAC",
+      "Instituto Federal – Reitorias",
+      "Redes Estaduais de Ensino Profissionalizante",
+      "Universidades privadas",
+      "Redes Municipais de Ensino Fundamental"
+    ],
+    "resposta": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explicacao": "O item 1.2 lista quatro tipos de IP: DRs do SENAI, DRs do SENAC, Reitorias de Institutos Federais e Redes Estaduais de Ensino Profissionalizante.",
+    "referencia": "Seção 1.2, p. 4",
+    "regra_id": "r003"
+  },
+  {
+    "id": "q008",
+    "tipo": "multipla",
+    "secao": "2. Organização e inscrição",
+    "dificuldade": "facil",
+    "enunciado": "Quem deve realizar a inscrição na competição?",
+    "opcoes": [
+      "O próprio competidor, no SGS",
+      "O Avaliador Líder da ocupação",
+      "A CT WorldSkills Brasil",
+      "O Delegado Técnico da Instituição Participante"
+    ],
+    "resposta": 3,
+    "explicacao": "O item 2.3 determina que a inscrição seja feita pelo Delegado Técnico da Instituição Participante.",
+    "referencia": "Seção 2.3, p. 6",
+    "regra_id": "r013"
+  },
+  {
+    "id": "q009",
+    "tipo": "lacuna",
+    "secao": "2. Organização e inscrição",
+    "dificuldade": "medio",
+    "enunciado": "Na Etapa 1 (Intenções de participação), o prazo para inscrição é de até ____ meses antes da competição.",
+    "opcoes": [],
+    "resposta": [
+      "9",
+      "09",
+      "nove"
+    ],
+    "explicacao": "O item 2.3.1 fixa o prazo da Etapa 1 em até 09 meses antes da competição.",
+    "referencia": "Seção 2.3.1, p. 6",
+    "regra_id": "r014"
+  },
+  {
+    "id": "q010",
+    "tipo": "multipla",
+    "secao": "2. Organização e inscrição",
+    "dificuldade": "medio",
+    "enunciado": "Até quando as Instituições Participantes devem finalizar a Inscrição Definitiva (Etapa 2)?",
+    "opcoes": [
+      "Até 6 meses antes da competição",
+      "Até 4 meses antes da competição",
+      "Até 8 meses antes da competição",
+      "Até 9 meses antes da competição"
+    ],
+    "resposta": 0,
+    "explicacao": "A Etapa 2 deve ser finalizada em até 06 meses antes. 9 meses é o prazo da Etapa 1, 8 meses o do perfil dos Avaliadores e 4 meses o do perfil do Competidor.",
+    "referencia": "Seção 2.3.2/2.3.3, p. 6",
+    "regra_id": "r015"
+  },
+  {
+    "id": "q011",
+    "tipo": "vf",
+    "secao": "2. Organização e inscrição",
+    "dificuldade": "medio",
+    "enunciado": "As informações do perfil do Competidor devem ser fornecidas pelo menos 8 meses antes da competição.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "resposta": false,
+    "explicacao": "Falso. O perfil do Competidor deve ser fornecido pelo menos 04 meses antes. O prazo de 08 meses vale para o perfil dos Avaliadores.",
+    "referencia": "Etapa 3 (seção 2.3), p. 6",
+    "regra_id": "r016"
+  },
+  {
+    "id": "q012",
+    "tipo": "ordenar",
+    "secao": "2. Organização e inscrição",
+    "dificuldade": "dificil",
+    "enunciado": "Ordene os prazos de inscrição do mais antecipado (mais longe da competição) para o mais próximo da competição:",
+    "opcoes": [
+      "Intenção de participação (Etapa 1) – até 9 meses antes",
+      "Perfil dos Avaliadores – pelo menos 8 meses antes",
+      "Inscrição Definitiva (Etapa 2) – até 6 meses antes",
+      "Perfil do Competidor – pelo menos 4 meses antes",
+      "Substituição de competidor – até 60 dias antes"
+    ],
+    "resposta": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explicacao": "Prazos do regulamento: 9 meses (Etapa 1), 8 meses (perfil dos Avaliadores), 6 meses (Etapa 2), 4 meses (perfil do Competidor) e 60 dias (substituição).",
+    "referencia": "Seções 2.3.1 a 2.3.5, p. 6–7",
+    "regra_id": "r014"
+  },
+  {
+    "id": "q013",
+    "tipo": "cenario",
+    "secao": "2. Organização e inscrição",
+    "dificuldade": "medio",
+    "enunciado": "Depois do início da Etapa 2, uma Instituição Participante decide cancelar a inscrição de uma dupla. O que diz o regulamento?",
+    "opcoes": [
+      "O cancelamento é livre até 60 dias antes da competição",
+      "O cancelamento só será aceito com justificativa encaminhada pelo Delegado Técnico à CT WorldSkills Brasil",
+      "O cancelamento não é permitido em nenhuma hipótese",
+      "Basta comunicar o Avaliador Líder da ocupação"
+    ],
+    "resposta": 1,
+    "explicacao": "Até o início da Etapa 2 o cancelamento é livre. Depois disso, só é aceito com justificativa do DT à CT (item 2.3.4). Os 60 dias referem-se à substituição, não ao cancelamento.",
+    "referencia": "Seção 2.3.4, p. 7",
+    "regra_id": "r017"
+  },
+  {
+    "id": "q014",
+    "tipo": "vf",
+    "secao": "2. Organização e inscrição",
+    "dificuldade": "facil",
+    "enunciado": "As Instituições Participantes da rede SENAC, Institutos Federais e Redes Estaduais são responsáveis pelo custeio de 100% das despesas de participação de seus agentes indicados.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "resposta": true,
+    "explicacao": "Verdadeiro. O item 2.2 atribui a essas IPs o custeio de 100% das despesas (traslados, passagens, hospedagem, alimentação, seguro-viagem e transporte de ferramental).",
+    "referencia": "Seção 2.2, p. 6",
+    "regra_id": "r012"
+  },
+  {
+    "id": "q015",
+    "tipo": "cenario",
+    "secao": "2. Organização e inscrição",
+    "dificuldade": "dificil",
+    "enunciado": "Um competidor mora na própria cidade onde a competição será sediada. Ele precisa ter seguro de viagem e/ou assistência médica hospitalar?",
+    "opcoes": [
+      "Não, quem reside na cidade-sede está dispensado",
+      "Sim, mas o seguro deve ser fornecido pelo anfitrião",
+      "Sim, e o seguro deve ser fornecido pela Instituição Participante, inclusive para quem reside na cidade-sede",
+      "Não, pois a assistência de emergência já é responsabilidade do anfitrião"
+    ],
+    "resposta": 2,
+    "explicacao": "O item 2.1 exige seguro de todos os participantes, fornecido pela IP, 'incluindo aqueles participantes que residem e/ou trabalham na cidade' da competição. O anfitrião responde apenas pela assistência de emergência.",
+    "referencia": "Seção 2.1, p. 5",
+    "regra_id": "r011"
+  },
+  {
+    "id": "q016",
+    "tipo": "lacuna",
+    "secao": "3. Participantes credenciados",
+    "dificuldade": "facil",
+    "enunciado": "Para ser Competidor, o aluno ou ex-aluno deve ter feito um curso com no mínimo ____ horas em área correlata à ocupação.",
+    "opcoes": [],
+    "resposta": [
+      "160",
+      "160 horas",
+      "160h"
+    ],
+    "explicacao": "O item 3.1 exige curso com no mínimo 160 horas em área correlata/tecnológica à ocupação.",
+    "referencia": "Seção 3.1, p. 7",
+    "regra_id": "r019"
+  },
+  {
+    "id": "q017",
+    "tipo": "multipla",
+    "secao": "3. Participantes credenciados",
+    "dificuldade": "medio",
+    "enunciado": "Qual é a regra geral de idade para os Competidores da Seletiva Nacional 2025?",
+    "opcoes": [
+      "No máximo 21 anos no ano da competição (nascidos a partir de 2003)",
+      "No máximo 24 anos no ano da competição (nascidos a partir de 2001)",
+      "No máximo 22 anos no ano da competição (nascidos a partir de 2003)",
+      "No máximo 21 anos no ano da competição (nascidos a partir de 2004)"
+    ],
+    "resposta": 3,
+    "explicacao": "A regra geral é de no máximo 21 anos (nascidos a partir de 2004). O limite de 24 anos (nascidos a partir de 2001) é a exceção para ocupações específicas.",
+    "referencia": "Seção 3.1.3, p. 8",
+    "regra_id": "r024"
+  },
+  {
+    "id": "q018",
+    "tipo": "cenario",
+    "secao": "3. Participantes credenciados",
+    "dificuldade": "dificil",
+    "enunciado": "Um candidato nascido em 2002 quer competir na ocupação #54 – Segurança Cibernética. Ele pode?",
+    "opcoes": [
+      "Sim, pois a #54 está entre as exceções com limite de 24 anos (nascidos a partir de 2001)",
+      "Não, pois o limite é de 21 anos (nascidos a partir de 2004)",
+      "Sim, porque não há limite de idade em ocupações digitais",
+      "Não, pois a exceção de 24 anos vale apenas para a #04 – Mecatrônica"
+    ],
+    "resposta": 0,
+    "explicacao": "A #54 – Segurança Cibernética está na lista de exceções do item 3.1.3, com limite de 24 anos (nascidos a partir de 2001). Quem nasceu em 2002 está dentro desse limite.",
+    "referencia": "Seção 3.1.3, p. 8",
+    "regra_id": "r024"
+  },
+  {
+    "id": "q019",
+    "tipo": "vf",
+    "secao": "3. Participantes credenciados",
+    "dificuldade": "facil",
+    "enunciado": "Cada Instituição Participante pode inscrever 1 competidor ou 1 dupla por ocupação, exceto quando houver candidatos de origem SAEP.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "resposta": true,
+    "explicacao": "Verdadeiro. É o que diz o item 3.1.1. A exceção do SAEP (3.1.2) permite uma segunda vaga na mesma ocupação.",
+    "referencia": "Seção 3.1.1, p. 7",
+    "regra_id": "r020"
+  },
+  {
+    "id": "q020",
+    "tipo": "multipla",
+    "secao": "3. Participantes credenciados",
+    "dificuldade": "dificil",
+    "enunciado": "Qual ciclo de resultados do SAEP é considerado para indicar estudantes à Seletiva Nacional 2025?",
+    "opcoes": [
+      "O ciclo 2023",
+      "O ciclo 2024, último ciclo fechado",
+      "O ciclo 2025",
+      "O ciclo em andamento no ano da competição"
+    ],
+    "resposta": 1,
+    "explicacao": "O item 3.1.2 diz que serão usados os resultados do último ciclo fechado, 'neste caso o ciclo 2024'.",
+    "referencia": "Seção 3.1.2, p. 7",
+    "regra_id": "r021"
+  },
+  {
+    "id": "q021",
+    "tipo": "multipla_varias",
+    "secao": "3. Participantes credenciados",
+    "dificuldade": "dificil",
+    "enunciado": "Quais critérios o regulamento lista para a indicação de um estudante de origem SAEP? (marque todos que se aplicam)",
+    "opcoes": [
+      "Maior nota nas provas objetiva e prática do SAEP na classificação nacional",
+      "Idade compatível com a ocupação em que será inscrito",
+      "Somente para ocupações onde não há competição em dupla",
+      "Aceitação do aluno para participar como competidor",
+      "Ter no mínimo 2 anos de experiência profissional",
+      "Ser indicado pelo Avaliador Líder da ocupação"
+    ],
+    "resposta": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explicacao": "Os itens 3.1.2.1 a 3.1.2.4 listam maior nota, idade compatível, ocupação sem dupla e aceitação do aluno. Experiência mínima e indicação do Avaliador Líder não são critérios.",
+    "referencia": "Seção 3.1.2, p. 7–8",
+    "regra_id": "r023"
+  },
+  {
+    "id": "q022",
+    "tipo": "vf",
+    "secao": "3. Participantes credenciados",
+    "dificuldade": "dificil",
+    "enunciado": "Na indicação de estudante SAEP, em caso de empate na maior nota, considera-se a maior nota na prova objetiva.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "resposta": false,
+    "explicacao": "Falso. Em caso de empate, considera-se a maior nota na prova PRÁTICA.",
+    "referencia": "Seção 3.1.2.1, p. 7",
+    "regra_id": "r022"
+  },
+  {
+    "id": "q023",
+    "tipo": "multipla",
+    "secao": "3. Participantes credenciados",
+    "dificuldade": "facil",
+    "enunciado": "Quanto tempo de familiarização os Competidores terão em suas áreas de trabalho?",
+    "opcoes": [
+      "Entre 2 e 4 horas",
+      "Entre 6 e 8 horas",
+      "Entre 3 e 6 horas",
+      "Exatamente 4 horas"
+    ],
+    "resposta": 2,
+    "explicacao": "O item 3.2.5 prevê entre 3 e 6 horas de familiarização, sob orientação dos Avaliadores e do Chefe de Oficina.",
+    "referencia": "Seção 3.2.5, p. 9",
+    "regra_id": "r029"
+  },
+  {
+    "id": "q024",
+    "tipo": "cenario",
+    "secao": "3. Participantes credenciados",
+    "dificuldade": "medio",
+    "enunciado": "Uma ocupação será realizada de forma online. Como fica a familiarização?",
+    "opcoes": [
+      "A familiarização é reduzida para 3 horas, com assinatura obrigatória",
+      "A familiarização é obrigatória, por videoconferência",
+      "Dispensa-se o tempo de familiarização, mas a assinatura do documento continua obrigatória",
+      "Não é necessário disponibilizar tempo de familiarização nem assinar o documento de familiarização"
+    ],
+    "resposta": 3,
+    "explicacao": "O item 3.2.5 diz que, em ocupações online, não é necessário disponibilizar o tempo de familiarização nem assinar o documento que a confirma.",
+    "referencia": "Seção 3.2.5, p. 10",
+    "regra_id": "r029"
+  },
+  {
+    "id": "q025",
+    "tipo": "lacuna",
+    "secao": "3. Participantes credenciados",
+    "dificuldade": "facil",
+    "enunciado": "Antes do início da competição, o Competidor terá no mínimo ____ minutos para estudar o Projeto Teste e tirar dúvidas.",
+    "opcoes": [],
+    "resposta": [
+      "30",
+      "trinta",
+      "30 minutos"
+    ],
+    "explicacao": "O item 3.2.9 garante no mínimo 30 minutos, que não contam no tempo de execução.",
+    "referencia": "Seção 3.2.9, p. 10",
+    "regra_id": "r033"
+  },
+  {
+    "id": "q026",
+    "tipo": "multipla",
+    "secao": "3. Participantes credenciados",
+    "dificuldade": "dificil",
+    "enunciado": "Se o Projeto Teste for dividido em módulos, qual é o tempo mínimo de estudo antes de cada módulo?",
+    "opcoes": [
+      "15 minutos",
+      "10 minutos",
+      "30 minutos",
+      "20 minutos"
+    ],
+    "resposta": 0,
+    "explicacao": "Com módulos, o tempo mínimo de estudo é de 15 minutos antes de cada módulo. Os 30 minutos valem para o Projeto Teste entregue inteiro.",
+    "referencia": "Seção 3.2.9, p. 10",
+    "regra_id": "r033"
+  },
+  {
+    "id": "q027",
+    "tipo": "vf",
+    "secao": "3. Participantes credenciados",
+    "dificuldade": "facil",
+    "enunciado": "O tempo de estudo do Projeto Teste está incluído no tempo de execução do projeto.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "resposta": false,
+    "explicacao": "Falso. O item 3.2.9 diz expressamente que esse tempo NÃO está incluído no tempo de execução.",
+    "referencia": "Seção 3.2.9, p. 10",
+    "regra_id": "r033"
+  },
+  {
+    "id": "q028",
+    "tipo": "cenario",
+    "secao": "3. Participantes credenciados",
+    "dificuldade": "medio",
+    "enunciado": "Num intervalo de almoço, um Competidor quer falar com o Avaliador da sua própria IP. A ocupação não envolve colocação de defeitos nem sigilo do projeto teste. Pode?",
+    "opcoes": [
+      "Não, a comunicação é proibida durante todo o dia de competição",
+      "Sim, pois a comunicação permitida inclui o intervalo de almoço",
+      "Somente com autorização do Avaliador Líder",
+      "Somente na presença de Avaliadores neutros"
+    ],
+    "resposta": 1,
+    "explicacao": "Pelo item 3.2.3, eles podem se comunicar a qualquer momento, exceto durante as provas, e isso inclui o almoço. A proibição no almoço só vale para ocupações com colocação de defeitos ou sigilo.",
+    "referencia": "Seção 3.2.3, p. 9",
+    "regra_id": "r027"
+  },
+  {
+    "id": "q029",
+    "tipo": "cenario",
+    "secao": "3. Participantes credenciados",
+    "dificuldade": "dificil",
+    "enunciado": "Um Avaliador quer falar com o Competidor da sua própria IP durante a execução do Projeto Teste. Em que condição isso é permitido?",
+    "opcoes": [
+      "Livremente, desde que seja rápido",
+      "Com autorização do Delegado Técnico da IP",
+      "Com autorização do Avaliador Líder e na presença de Avaliadores de outra IP ou neutros",
+      "Nunca, sem nenhuma exceção"
+    ],
+    "resposta": 2,
+    "explicacao": "O item 3.3.4 só permite essa comunicação com autorização do Avaliador Líder e na presença de Avaliadores de outra IP ou neutros.",
+    "referencia": "Seção 3.3.4, p. 12",
+    "regra_id": "r036"
+  },
+  {
+    "id": "q030",
+    "tipo": "multipla",
+    "secao": "3. Participantes credenciados",
+    "dificuldade": "facil",
+    "enunciado": "Quem compõe a Equipe de Gerenciamento da Ocupação (SMT)?",
+    "opcoes": [
+      "Avaliador Líder, Avaliador Líder Adjunto e Avaliadores",
+      "Delegado Técnico, Delegado Técnico Adjunto e Avaliador Líder",
+      "Chefe de Oficina, Avaliador Líder e DCTS",
+      "Delegado do Comitê Técnico (DCTS), Avaliador Líder e Avaliador Líder Adjunto"
+    ],
+    "resposta": 3,
+    "explicacao": "Pelo item 3.6, a SMT é formada por DCTS, Avaliador Líder e Adjunto. 'Avaliador Líder, Adjunto e Avaliadores' é a composição do Júri (3.7.1).",
+    "referencia": "Seção 3.6, p. 13",
+    "regra_id": "r042"
+  },
+  {
+    "id": "q031",
+    "tipo": "associar",
+    "secao": "3. Participantes credenciados",
+    "dificuldade": "medio",
+    "enunciado": "Associe cada grupo à sua composição ou característica:",
+    "opcoes": [
+      [
+        "Júri",
+        "Avaliador Líder, Avaliador Líder Adjunto e Avaliadores"
+      ],
+      [
+        "SMT",
+        "DCTS, Avaliador Líder e Avaliador Líder Adjunto"
+      ],
+      [
+        "Comitê de Ouvidoria",
+        "Cinco membros, geralmente Delegados Técnicos"
+      ],
+      [
+        "Delegado Técnico Adjunto",
+        "Pode participar das reuniões do Comitê Técnico e tem acesso somente de leitura aos Fóruns"
+      ]
+    ],
+    "resposta": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explicacao": "Composições: Júri (3.7.1), SMT (3.6), Comitê de Ouvidoria (14.7) e direitos do DTa (3.9.2).",
+    "referencia": "Seções 3.6, 3.7.1, 3.9.2 e 14.7",
+    "regra_id": "r043"
+  },
+  {
+    "id": "q032",
+    "tipo": "vf",
+    "secao": "3. Participantes credenciados",
+    "dificuldade": "medio",
+    "enunciado": "Cada Instituição Participante pode nomear apenas um Avaliador por ocupação, com exceção do Avaliador Convidado (item 3.3.5).",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "resposta": true,
+    "explicacao": "Verdadeiro. O item 3.3.2 limita a um Avaliador por ocupação e ressalva o item 3.3.5 (Avaliador Convidado).",
+    "referencia": "Seção 3.3.2, p. 11",
+    "regra_id": "r035"
+  },
+  {
+    "id": "q033",
+    "tipo": "vf",
+    "secao": "3. Participantes credenciados",
+    "dificuldade": "dificil",
+    "enunciado": "Um Avaliador pode atuar em mais de uma ocupação, desde que elas ocorram no mesmo período de competição.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "resposta": false,
+    "explicacao": "Falso. O item 3.3.1 permite atuar em mais de uma ocupação desde que elas NÃO ocorram no mesmo período.",
+    "referencia": "Seção 3.3.1, p. 11",
+    "regra_id": "r034"
+  },
+  {
+    "id": "q034",
+    "tipo": "multipla",
+    "secao": "3. Participantes credenciados",
+    "dificuldade": "medio",
+    "enunciado": "Até quando o Avaliador Líder deve entregar o Plano de Gestão da Ocupação (PGO)?",
+    "opcoes": [
+      "Até 45 dias antes do início da competição",
+      "Até 60 dias antes do início da competição",
+      "Até 30 dias antes do início da competição",
+      "Até 15 dias antes do início da competição"
+    ],
+    "resposta": 0,
+    "explicacao": "O item 3.5.5 fixa a entrega do PGO em até 45 dias antes, com aprovação da CT.",
+    "referencia": "Seção 3.5.5, p. 13",
+    "regra_id": "r041"
+  },
+  {
+    "id": "q035",
+    "tipo": "lacuna",
+    "secao": "3. Participantes credenciados",
+    "dificuldade": "dificil",
+    "enunciado": "Uma votação no Fórum de Discussão deve ser comunicada aos avaliadores com pelo menos ____ dias de antecedência do início da votação.",
+    "opcoes": [],
+    "resposta": [
+      "7",
+      "sete"
+    ],
+    "explicacao": "Pelo item 3.7.4, a votação é comunicada com pelo menos 7 dias de antecedência. A votação fica aberta de 1 a 7 dias e se encerra até 10 dias antes da competição.",
+    "referencia": "Seção 3.7.4, p. 13",
+    "regra_id": "r045"
+  },
+  {
+    "id": "q036",
+    "tipo": "vf",
+    "secao": "3. Participantes credenciados",
+    "dificuldade": "medio",
+    "enunciado": "Se um Avaliador estava ausente do Fórum durante uma votação, ele pode exigir que o assunto seja votado novamente.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "resposta": false,
+    "explicacao": "Falso. Ele tem direito a ser informado da decisão, mas o assunto não será discutido nem votado novamente (3.7.4).",
+    "referencia": "Seção 3.7.4, p. 14",
+    "regra_id": "r046"
+  },
+  {
+    "id": "q037",
+    "tipo": "multipla",
+    "secao": "3. Participantes credenciados",
+    "dificuldade": "facil",
+    "enunciado": "Como deve ser feita a vistoria dos armários de ferramentas dos competidores?",
+    "opcoes": [
+      "Somente no C-1, sem a presença do Competidor",
+      "A cada dia de competição, com o Competidor presente em todos os momentos",
+      "A cada dia de competição, sem a presença do Competidor",
+      "Somente quando houver denúncia de irregularidade"
+    ],
+    "resposta": 1,
+    "explicacao": "O item 3.7.2 exige vistoria diária pelo Júri, com o Competidor presente o tempo todo.",
+    "referencia": "Seção 3.7.2, p. 13",
+    "regra_id": "r044"
+  },
+  {
+    "id": "q038",
+    "tipo": "vf",
+    "secao": "3. Participantes credenciados",
+    "dificuldade": "facil",
+    "enunciado": "O Avaliador Líder pode pedir ajuda a um ex-Avaliador Líder para auxiliá-lo em aspectos da competição.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "resposta": false,
+    "explicacao": "Falso. O item 3.5.4 proíbe o Avaliador Líder de pedir apoio a pessoa externa, ex-Avaliador Líder ou Avaliador.",
+    "referencia": "Seção 3.5.4, p. 13",
+    "regra_id": "r040"
+  },
+  {
+    "id": "q039",
+    "tipo": "multipla",
+    "secao": "3. Participantes credenciados",
+    "dificuldade": "medio",
+    "enunciado": "Quem indica o Chefe de Oficina de cada ocupação?",
+    "opcoes": [
+      "A CT WorldSkills Brasil, com aprovação da CEN",
+      "O Avaliador Líder de cada ocupação",
+      "A Instituição Participante (SENAI DR) anfitriã, com validação da CT WorldSkills Brasil",
+      "O Delegado Técnico de cada Instituição Participante"
+    ],
+    "resposta": 2,
+    "explicacao": "O item 3.12.2 atribui a indicação ao SENAI DR anfitrião, com validação da CT.",
+    "referencia": "Seção 3.12.2, p. 17",
+    "regra_id": "r051"
+  },
+  {
+    "id": "q040",
+    "tipo": "multipla_varias",
+    "secao": "3. Participantes credenciados",
+    "dificuldade": "medio",
+    "enunciado": "Quais destas são responsabilidades do Chefe de Oficina? (marque todas que se aplicam)",
+    "opcoes": [
+      "Orientar todos os participantes sobre as normas de saúde e segurança antes da familiarização",
+      "Orientar sobre procedimentos e rotas de fuga em caso de evacuação",
+      "Preparar os postos de trabalho conforme o Descritivo Técnico",
+      "Participar da avaliação do Projeto Teste",
+      "Presidir as reuniões do júri como integrante neutro",
+      "Manter a ordem e a arrumação da ocupação"
+    ],
+    "resposta": [
+      0,
+      1,
+      2,
+      5
+    ],
+    "explicacao": "O item 3.12.4 lista orientação de segurança, rotas de fuga, preparo dos postos e ordem da ocupação. O CO não pode avaliar o Projeto Teste (3.12.3), e quem preside o júri é o DCTS (3.10.4).",
+    "referencia": "Seções 3.12.3 e 3.12.4, p. 17",
+    "regra_id": "r052"
+  },
+  {
+    "id": "q041",
+    "tipo": "ordenar",
+    "secao": "3. Participantes credenciados",
+    "dificuldade": "medio",
+    "enunciado": "Coloque na ordem correta as etapas do Competidor antes de começar a execução da prova:",
+    "opcoes": [
+      "Sorteio das áreas de trabalho",
+      "Familiarização (3 a 6 horas)",
+      "Assinatura do documento confirmando a familiarização",
+      "Entrega e leitura do Projeto Teste (mínimo 30 minutos)",
+      "Início da execução do Projeto Teste"
+    ],
+    "resposta": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explicacao": "O sorteio ocorre antes da familiarização (3.2.4), a assinatura vem ao final da familiarização (3.2.5) e o Projeto Teste é entregue imediatamente antes do início, com tempo de estudo próprio (3.2.9).",
+    "referencia": "Seções 3.2.4, 3.2.5 e 3.2.9, p. 9–10",
+    "regra_id": "r028"
+  },
+  {
+    "id": "q042",
+    "tipo": "lacuna",
+    "secao": "4. Ocupações aceitas",
+    "dificuldade": "facil",
+    "enunciado": "Para que uma ocupação oficial seja realizada, ela deve ter no mínimo ____ competidores/duplas inscritos e confirmados.",
+    "opcoes": [],
+    "resposta": [
+      "5",
+      "cinco"
+    ],
+    "explicacao": "O item 4.2.1 exige no mínimo 5 competidores/duplas, inscritos na intenção e confirmados na inscrição definitiva.",
+    "referencia": "Seção 4.2.1, p. 17",
+    "regra_id": "r053"
+  },
+  {
+    "id": "q043",
+    "tipo": "ordenar",
+    "secao": "4. Ocupações aceitas",
+    "dificuldade": "medio",
+    "enunciado": "Coloque na ordem definida pelo Princípio Orientador 2 os critérios para realização das ocupações:",
+    "opcoes": [
+      "Ocupações que poderão ser realizadas na WorldSkills Shanghai 2026",
+      "Registros de Intenção de participação das Instituições Participantes",
+      "Ocupações com 5 ou mais inscritos",
+      "Decisão da CEN WorldSkills Brasil sobre a realização"
+    ],
+    "resposta": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explicacao": "Ordem do item 4.3.2: 1º ocupações da WorldSkills Shanghai 2026; 2º registros de intenção; 3º ocupações com 5 ou mais inscritos; 4º decisão da CEN.",
+    "referencia": "Seção 4.3.2, p. 18",
+    "regra_id": "r054"
+  },
+  {
+    "id": "q044",
+    "tipo": "vf",
+    "secao": "4. Ocupações aceitas",
+    "dificuldade": "facil",
+    "enunciado": "Uma ocupação que não atingir o número mínimo de inscritos não poderá mais ser considerada em edições futuras do evento.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "resposta": false,
+    "explicacao": "Falso. O item 4.2.2 diz que ela não será realizada nesta edição, mas 'poderá ser considerada novamente numa próxima edição'.",
+    "referencia": "Seção 4.2.2, p. 17",
+    "regra_id": "r053"
+  },
+  {
+    "id": "q045",
+    "tipo": "cenario",
+    "secao": "5. Descritivos técnicos",
+    "dificuldade": "facil",
+    "enunciado": "Uma regra do Descritivo Técnico de uma ocupação contradiz as Regras da Competição. O que prevalece?",
+    "opcoes": [
+      "O Descritivo Técnico, por ser mais específico",
+      "A decisão do Avaliador Líder no momento",
+      "O documento publicado mais recentemente",
+      "As Regras da Competição"
+    ],
+    "resposta": 3,
+    "explicacao": "O item 5.2 diz que os Descritivos Técnicos não podem prevalecer sobre as Regras da Competição; em qualquer discrepância, as Regras têm prioridade.",
+    "referencia": "Seção 5.2, p. 18",
+    "regra_id": "r055"
+  },
+  {
+    "id": "q046",
+    "tipo": "multipla",
+    "secao": "5. Descritivos técnicos",
+    "dificuldade": "facil",
+    "enunciado": "Até quando os Descritivos Técnicos devem estar disponíveis no SGS?",
+    "opcoes": [
+      "Até 8 meses antes da competição",
+      "Até 6 meses antes da competição",
+      "Até 9 meses antes da competição",
+      "Até 4 meses antes da competição"
+    ],
+    "resposta": 0,
+    "explicacao": "O item 5.3 determina disponibilidade no SGS em até 08 meses antes da competição.",
+    "referencia": "Seção 5.3, p. 18",
+    "regra_id": "r056"
+  },
+  {
+    "id": "q047",
+    "tipo": "vf",
+    "secao": "5. Descritivos técnicos",
+    "dificuldade": "medio",
+    "enunciado": "As regras específicas de uma ocupação são validadas por votação majoritária simples (50%+1) dos Avaliadores e passam a fazer parte do Descritivo Técnico.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "resposta": true,
+    "explicacao": "Verdadeiro. Conforme o item 5.4. Ainda assim, elas não podem se sobrepor às Regras do Regulamento.",
+    "referencia": "Seção 5.4, p. 18",
+    "regra_id": "r057"
+  },
+  {
+    "id": "q048",
+    "tipo": "multipla",
+    "secao": "6. Lista de Infraestrutura",
+    "dificuldade": "medio",
+    "enunciado": "Quem deve revisar e atualizar online a Lista de Infraestrutura (IL)?",
+    "opcoes": [
+      "O Avaliador Líder, sob coordenação do Chefe de Oficina",
+      "O Chefe de Oficina, sob coordenação do Avaliador Líder",
+      "A CT WorldSkills Brasil, sem participação da ocupação",
+      "O Delegado Técnico de cada Instituição Participante"
+    ],
+    "resposta": 1,
+    "explicacao": "Pelo item 6.2, a IL é revisada pelo CO sob coordenação do Avaliador Líder. A CT valida e publica a lista oficial.",
+    "referencia": "Seção 6.2, p. 19",
+    "regra_id": "r058"
+  },
+  {
+    "id": "q049",
+    "tipo": "vf",
+    "secao": "6. Lista de Infraestrutura",
+    "dificuldade": "facil",
+    "enunciado": "Ferramentas, instrumentos, EPIs e equipamentos de uso individual devem ser providenciados pelas Instituições Participantes.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "resposta": true,
+    "explicacao": "Verdadeiro. O item 6.3 diz que esses materiais são responsabilidade dos participantes e devem ser providenciados pelas IPs.",
+    "referencia": "Seção 6.3, p. 19",
+    "regra_id": "r059"
+  },
+  {
+    "id": "q050",
+    "tipo": "multipla",
+    "secao": "7. Projeto Teste",
+    "dificuldade": "facil",
+    "enunciado": "Qual é o limite de duração do Projeto Teste?",
+    "opcoes": [
+      "Não superior a 3 dias, com no máximo 6 horas diárias",
+      "Não superior a 4 dias, com no máximo 8 horas diárias",
+      "Não superior a 3 dias, com no máximo 8 horas diárias",
+      "Não superior a 2 dias, com no máximo 10 horas diárias"
+    ],
+    "resposta": 2,
+    "explicacao": "O item 7.2.1 limita o Projeto Teste a no máximo 3 dias, com no máximo 8 horas diárias.",
+    "referencia": "Seção 7.2.1, p. 19",
+    "regra_id": "r060"
+  },
+  {
+    "id": "q051",
+    "tipo": "multipla_varias",
+    "secao": "7. Projeto Teste",
+    "dificuldade": "medio",
+    "enunciado": "Quais critérios devem ser observados na modalidade online? (marque todos que se aplicam)",
+    "opcoes": [
+      "Uso de recursos de monitoramento remoto, como câmeras",
+      "Projeto Teste modular, sem superar 3 h contínuas por módulo",
+      "Regras específicas aprovadas pela CT em até 3 meses antes da competição",
+      "Documento de regras assinado por pelo menos 50%+1 dos avaliadores",
+      "Familiarização presencial de 6 horas",
+      "Módulos de até 4 horas contínuas"
+    ],
+    "resposta": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explicacao": "O item 7.2.3.2 lista monitoramento remoto, módulos de até 3 h, aprovação da CT até 3 meses antes e assinatura por maioria simples. Ocupações online dispensam familiarização (3.2.5), e o limite é 3 h, não 4 h.",
+    "referencia": "Seção 7.2.3.2, p. 19–20",
+    "regra_id": "r062"
+  },
+  {
+    "id": "q052",
+    "tipo": "lacuna",
+    "secao": "7. Projeto Teste",
+    "dificuldade": "medio",
+    "enunciado": "Na modalidade online, o Projeto Teste deve ser modular e não pode superar ____ horas contínuas de prova por módulo.",
+    "opcoes": [],
+    "resposta": [
+      "3",
+      "três",
+      "tres",
+      "3h"
+    ],
+    "explicacao": "O item 7.2.3.2 limita cada módulo a 3 horas contínuas de prova.",
+    "referencia": "Seção 7.2.3.2, p. 19",
+    "regra_id": "r062"
+  },
+  {
+    "id": "q053",
+    "tipo": "multipla",
+    "secao": "7. Projeto Teste",
+    "dificuldade": "dificil",
+    "enunciado": "Se o Projeto Teste foi conhecido antecipadamente pelos competidores ou desenvolvido pelo grupo de avaliadores, quanto do conteúdo deve ser alterado?",
+    "opcoes": [
+      "No mínimo 20% e no máximo 50%",
+      "No mínimo 30% e no máximo 60%",
+      "Exatamente 30%",
+      "No mínimo 30% e no máximo 50%"
+    ],
+    "resposta": 3,
+    "explicacao": "O item 7.3.5 exige alteração mínima de 30% e máxima de 50%, dentro dos limites de equipamentos e materiais.",
+    "referencia": "Seção 7.3.5, p. 20",
+    "regra_id": "r065"
+  },
+  {
+    "id": "q054",
+    "tipo": "cenario",
+    "secao": "7. Projeto Teste",
+    "dificuldade": "dificil",
+    "enunciado": "O Projeto Teste de uma ocupação foi fornecido por uma consultoria externa. Os avaliadores querem alterar 30% do conteúdo. O que diz o regulamento?",
+    "opcoes": [
+      "Não podem alterar; só é permitido em caso de erros que possam comprometer a realização",
+      "Devem alterar obrigatoriamente entre 30% e 50%",
+      "Podem alterar até 50% com aprovação do DCTS",
+      "Podem alterar livremente nos dias de preparação"
+    ],
+    "resposta": 0,
+    "explicacao": "O item 7.3.5 diz que projetos de empresa/consultoria externa não devem ser alterados pelos avaliadores, salvo erros detectados que possam comprometer a realização.",
+    "referencia": "Seção 7.3.5, p. 21",
+    "regra_id": "r065"
+  },
+  {
+    "id": "q055",
+    "tipo": "vf",
+    "secao": "7. Projeto Teste",
+    "dificuldade": "medio",
+    "enunciado": "Quando a ficha de avaliação é elaborada pelos avaliadores, os competidores têm acesso ao detalhamento dos critérios, aspectos e pontuação.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "resposta": false,
+    "explicacao": "Falso. O item 7.3.4 diz que, independentemente de quem elabora a ficha, os competidores não terão acesso a esse detalhamento.",
+    "referencia": "Seção 7.3.4, p. 20",
+    "regra_id": "r064"
+  },
+  {
+    "id": "q056",
+    "tipo": "vf",
+    "secao": "7. Projeto Teste",
+    "dificuldade": "facil",
+    "enunciado": "A empresa ou consultor externo que desenvolve o Projeto Teste deve assinar um Acordo de Confidencialidade e Profissionalismo com a CT WorldSkills Brasil.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "resposta": true,
+    "explicacao": "Verdadeiro. É uma exigência do item 7.3.2.",
+    "referencia": "Seção 7.3.2, p. 20",
+    "regra_id": "r063"
+  },
+  {
+    "id": "q057",
+    "tipo": "cenario",
+    "secao": "7. Projeto Teste",
+    "dificuldade": "medio",
+    "enunciado": "Por razões técnicas, não é possível manter guardados os Projetos Teste finalizados até a homologação dos resultados. O que deve ser feito?",
+    "opcoes": [
+      "Os projetos devem ser devolvidos aos competidores",
+      "Fotografias devem ser tiradas sob a supervisão da SMT",
+      "Os projetos podem ser destruídos logo após a avaliação",
+      "Cada competidor deve fotografar o próprio projeto"
+    ],
+    "resposta": 1,
+    "explicacao": "O item 7.3.7 manda fotografar sob supervisão da SMT. As fotos ficam guardadas junto com os documentos de avaliação para eventuais recursos.",
+    "referencia": "Seção 7.3.7, p. 21",
+    "regra_id": "r066"
+  },
+  {
+    "id": "q058",
+    "tipo": "multipla",
+    "secao": "8. Pontuação e avaliação",
+    "dificuldade": "medio",
+    "enunciado": "Quantos Aspectos de Subcritérios deve ter a avaliação de todo o Projeto Teste?",
+    "opcoes": [
+      "Entre 50 e 150 aspectos",
+      "Entre 100 e 250 aspectos",
+      "Entre 100 e 200 aspectos",
+      "Entre 150 e 300 aspectos"
+    ],
+    "resposta": 2,
+    "explicacao": "O item 8.1.2 fixa entre 100 e 200 aspectos.",
+    "referencia": "Seção 8.1.2, p. 21",
+    "regra_id": "r068"
+  },
+  {
+    "id": "q059",
+    "tipo": "multipla",
+    "secao": "8. Pontuação e avaliação",
+    "dificuldade": "medio",
+    "enunciado": "Qual é o intervalo de valores permitido para cada aspecto avaliado?",
+    "opcoes": [
+      "Mínimo de 0,1 e máximo de 2,0 pontos",
+      "Mínimo de 0,2 e máximo de 3,0 pontos",
+      "Mínimo de 0,5 e máximo de 2,0 pontos",
+      "Mínimo de 0,2 e máximo de 2,0 pontos"
+    ],
+    "resposta": 3,
+    "explicacao": "O item 8.1.2 estabelece mínimo de 0,2 e máximo de 2,0 pontos por aspecto. O '3' é o teto da escala de notas do Julgamento, que é outra coisa.",
+    "referencia": "Seção 8.1.2, p. 21",
+    "regra_id": "r068"
+  },
+  {
+    "id": "q060",
+    "tipo": "associar",
+    "secao": "8. Pontuação e avaliação",
+    "dificuldade": "medio",
+    "enunciado": "Associe cada nota do Julgamento ao seu significado:",
+    "opcoes": [
+      [
+        "Nota 0",
+        "Abaixo do padrão aceitável, incluindo não finalizado"
+      ],
+      [
+        "Nota 1",
+        "No padrão aceitável pela indústria, comércio ou serviço"
+      ],
+      [
+        "Nota 2",
+        "Pequena melhoria em relação ao padrão aceitável"
+      ],
+      [
+        "Nota 3",
+        "Muito acima do padrão aceitável, de excelência"
+      ]
+    ],
+    "resposta": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explicacao": "Escala de 0 a 3 definida no item 8.1.5.",
+    "referencia": "Seção 8.1.5, p. 22",
+    "regra_id": "r071"
+  },
+  {
+    "id": "q061",
+    "tipo": "vf",
+    "secao": "8. Pontuação e avaliação",
+    "dificuldade": "medio",
+    "enunciado": "No Formulário de Avaliação, os aspectos avaliados por Medição são identificados com a letra 'J'.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "resposta": false,
+    "explicacao": "Falso. Medição usa a letra 'M'; Julgamento usa a letra 'J' (item 8.1.3).",
+    "referencia": "Seção 8.1.3, p. 22",
+    "regra_id": "r069"
+  },
+  {
+    "id": "q062",
+    "tipo": "cenario",
+    "secao": "8. Pontuação e avaliação",
+    "dificuldade": "dificil",
+    "enunciado": "Num aspecto de Julgamento, os três avaliadores dão as notas 1, 3 e 2. O que acontece?",
+    "opcoes": [
+      "A avaliação do aspecto deve ser refeita, pois a diferença entre as notas é maior que 1",
+      "Vale a média das três notas",
+      "Vale a nota dada pelo Avaliador Líder",
+      "Descarta-se a maior nota e somam-se as outras duas"
+    ],
+    "resposta": 0,
+    "explicacao": "O item 8.1.5 diz que a diferença entre as notas não pode passar de 1. Aqui ela é 2 (3 − 1), então o aspecto é reavaliado, com uma breve discussão permitida.",
+    "referencia": "Seção 8.1.5, p. 23",
+    "regra_id": "r072"
+  },
+  {
+    "id": "q063",
+    "tipo": "cenario",
+    "secao": "8. Pontuação e avaliação",
+    "dificuldade": "dificil",
+    "enunciado": "Num aspecto de Julgamento, o produto avaliado pertence ao competidor compatriota de um dos três avaliadores. O que deve ocorrer?",
+    "opcoes": [
+      "O avaliador compatriota avalia normalmente",
+      "O avaliador compatriota é substituído pelo quarto avaliador (suplente)",
+      "A nota do compatriota é descartada e usa-se a média dos outros dois",
+      "O Avaliador Líder substitui o compatriota"
+    ],
+    "resposta": 1,
+    "explicacao": "O item 8.1.5 manda substituir o avaliador compatriota pelo quarto avaliador, designado como suplente.",
+    "referencia": "Seção 8.1.5, p. 23",
+    "regra_id": "r072"
+  },
+  {
+    "id": "q064",
+    "tipo": "vf",
+    "secao": "8. Pontuação e avaliação",
+    "dificuldade": "dificil",
+    "enunciado": "Quando houver avaliação por Julgamento e por Medição, recomenda-se fazer primeiro a Medição.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "resposta": false,
+    "explicacao": "Falso. O item 8.1.6 recomenda fazer o Julgamento ANTES da Medição.",
+    "referencia": "Seção 8.1.6, p. 23",
+    "regra_id": "r073"
+  },
+  {
+    "id": "q065",
+    "tipo": "multipla",
+    "secao": "8. Pontuação e avaliação",
+    "dificuldade": "medio",
+    "enunciado": "Na avaliação por Medição com 'ponto total', como fica a pontuação do aspecto?",
+    "opcoes": [
+      "Varia de 0 até o valor total, conforme decréscimos descritos",
+      "É a soma das notas dos três avaliadores",
+      "Ou é 0 (zero) ou é o valor total indicado",
+      "Varia de 0 a 3, conforme o padrão da indústria"
+    ],
+    "resposta": 2,
+    "explicacao": "Pelo item 8.1.4, 'ponto total' é tudo ou nada. A variação com decréscimos é o 'ponto gradual'; a soma de notas de 0 a 3 é o Julgamento.",
+    "referencia": "Seção 8.1.4, p. 22",
+    "regra_id": "r070"
+  },
+  {
+    "id": "q066",
+    "tipo": "lacuna",
+    "secao": "8. Pontuação e avaliação",
+    "dificuldade": "dificil",
+    "enunciado": "Pela regra de arredondamento, o valor 1,055 torna-se ____.",
+    "opcoes": [],
+    "resposta": [
+      "1,06",
+      "1.06"
+    ],
+    "explicacao": "Com a terceira casa decimal igual ou maior que 5, arredonda-se para cima: 1,055 vira 1,06 (exemplo do próprio item 8.1.12).",
+    "referencia": "Seção 8.1.12, p. 24",
+    "regra_id": "r078"
+  },
+  {
+    "id": "q067",
+    "tipo": "vf",
+    "secao": "8. Pontuação e avaliação",
+    "dificuldade": "facil",
+    "enunciado": "A avaliação não deve ser feita na presença do Competidor, exceto quando for preciso que ele execute procedimentos ou ações.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "resposta": true,
+    "explicacao": "Verdadeiro. É a regra do item 8.1.8.",
+    "referencia": "Seção 8.1.8, p. 23",
+    "regra_id": "r074"
+  },
+  {
+    "id": "q068",
+    "tipo": "multipla",
+    "secao": "8. Pontuação e avaliação",
+    "dificuldade": "facil",
+    "enunciado": "Na escala usada para comparar ocupações, em que posição o CIS coloca a média de pontos de cada ocupação?",
+    "opcoes": [
+      "500",
+      "100",
+      "1000",
+      "700"
+    ],
+    "resposta": 3,
+    "explicacao": "O item 8.1.11 diz que o CIS posiciona a média de cada ocupação em 700 (Escala CIS 700). O resultado por ocupação usa a escala de 0 a 100.",
+    "referencia": "Seção 8.1.11, p. 24",
+    "regra_id": "r077"
+  },
+  {
+    "id": "q069",
+    "tipo": "vf",
+    "secao": "8. Pontuação e avaliação",
+    "dificuldade": "medio",
+    "enunciado": "A impressão de formulários em branco para lançamento manuscrito só é permitida com justificativa e aprovação da CT WorldSkills Brasil.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "resposta": true,
+    "explicacao": "Verdadeiro. O registro padrão é digital, e a impressão depende de justificativa e aprovação da CT (8.1.9).",
+    "referencia": "Seção 8.1.9, p. 23",
+    "regra_id": "r075"
+  },
+  {
+    "id": "q070",
+    "tipo": "cenario",
+    "secao": "8. Pontuação e avaliação",
+    "dificuldade": "dificil",
+    "enunciado": "Um avaliador se recusa a assinar o resultado da avaliação. Após a decisão final do Comitê Técnico, desfavorável a ele, o que acontece?",
+    "opcoes": [
+      "O Presidente do Júri da Ocupação fica autorizado a assinar por ele",
+      "O resultado da ocupação é anulado",
+      "A avaliação é refeita por outro grupo de avaliadores",
+      "O resultado fica sem assinatura e é publicado assim mesmo"
+    ],
+    "resposta": 0,
+    "explicacao": "O item 8.1.10 autoriza o Presidente do Júri da Ocupação a assinar pelos avaliadores nesse caso.",
+    "referencia": "Seção 8.1.10, p. 24",
+    "regra_id": "r076"
+  },
+  {
+    "id": "q071",
+    "tipo": "ordenar",
+    "secao": "8. Pontuação e avaliação",
+    "dificuldade": "medio",
+    "enunciado": "Ordene a estrutura da avaliação do nível mais amplo para o mais específico:",
+    "opcoes": [
+      "Critérios",
+      "Subcritérios",
+      "Aspectos dos Subcritérios"
+    ],
+    "resposta": [
+      0,
+      1,
+      2
+    ],
+    "explicacao": "O item 8.1.2 diz que cada critério se divide em subcritérios, e cada subcritério em aspectos, que são os itens pontuados.",
+    "referencia": "Seção 8.1.2, p. 21",
+    "regra_id": "r068"
+  },
+  {
+    "id": "q072",
+    "tipo": "associar",
+    "secao": "9. Resultados e premiação",
+    "dificuldade": "facil",
+    "enunciado": "Associe cada premiação ao seu valor no cálculo de pontos por medalhas:",
+    "opcoes": [
+      [
+        "Medalha de ouro",
+        "4 pontos"
+      ],
+      [
+        "Medalha de prata",
+        "3 pontos"
+      ],
+      [
+        "Medalha de bronze",
+        "2 pontos"
+      ],
+      [
+        "Certificado de Excelência",
+        "1 ponto"
+      ]
+    ],
+    "resposta": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explicacao": "Valores do item 9.1: ouro 4, prata 3, bronze 2, Certificado de Excelência 1.",
+    "referencia": "Seção 9.1, p. 24",
+    "regra_id": "r079"
+  },
+  {
+    "id": "q073",
+    "tipo": "multipla",
+    "secao": "9. Resultados e premiação",
+    "dificuldade": "medio",
+    "enunciado": "Até que diferença de notas se considera empate técnico no ranking?",
+    "opcoes": [
+      "Até 0,01",
+      "Até 0,05",
+      "Até 0,1",
+      "Até 0,5"
+    ],
+    "resposta": 1,
+    "explicacao": "O item 9.1.1 considera empate técnico uma diferença de até 0,05.",
+    "referencia": "Seção 9.1.1, p. 25",
+    "regra_id": "r080"
+  },
+  {
+    "id": "q074",
+    "tipo": "cenario",
+    "secao": "9. Resultados e premiação",
+    "dificuldade": "medio",
+    "enunciado": "Um competidor fez exatamente a média das pontuações da sua ocupação. Ele recebe o Certificado de Excelência?",
+    "opcoes": [
+      "Não, a pontuação precisa ser superior à média",
+      "Não, o certificado é só para medalhistas",
+      "Sim, pois o certificado vai para pontuação igual ou superior à média da ocupação",
+      "Sim, mas apenas se estiver entre os 5 primeiros"
+    ],
+    "resposta": 2,
+    "explicacao": "O item 9.1.2 concede o certificado a quem obtiver pontuação 'igual ou superior' à média da ocupação.",
+    "referencia": "Seção 9.1.2, p. 25",
+    "regra_id": "r081"
+  },
+  {
+    "id": "q075",
+    "tipo": "vf",
+    "secao": "9. Resultados e premiação",
+    "dificuldade": "facil",
+    "enunciado": "Na Classificação Geral só entram as Delegações que participaram de no mínimo 5 ocupações.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "resposta": true,
+    "explicacao": "Verdadeiro. É o que diz o item 9.1.3.",
+    "referencia": "Seção 9.1.3, p. 25",
+    "regra_id": "r082"
+  },
+  {
+    "id": "q076",
+    "tipo": "multipla_varias",
+    "secao": "9. Resultados e premiação",
+    "dificuldade": "medio",
+    "enunciado": "Para quem podem ser concedidos troféus de reconhecimento? (marque todos que se aplicam)",
+    "opcoes": [
+      "Unidades Escolares dos competidores em 1º lugar em cada ocupação",
+      "Unidades Escolares Sede das ocupações",
+      "Delegações em 1º, 2º e 3º lugar na Classificação Geral – Média por Pontos",
+      "Avaliadores Líderes de cada ocupação",
+      "Todos os competidores com Certificado de Excelência"
+    ],
+    "resposta": [
+      0,
+      1,
+      2
+    ],
+    "explicacao": "O item 9.1.3 lista as escolas dos primeiros colocados, as Unidades Sede e as 3 primeiras Delegações na Classificação Geral. Avaliadores Líderes e detentores de certificado não estão na lista.",
+    "referencia": "Seção 9.1.3, p. 25",
+    "regra_id": "r082"
+  },
+  {
+    "id": "q077",
+    "tipo": "vf",
+    "secao": "10. Acesso e credenciamento",
+    "dificuldade": "facil",
+    "enunciado": "Antes da competição, o acesso aos locais de prova é proibido à mídia e ao público em geral.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "resposta": true,
+    "explicacao": "Verdadeiro. É a regra do item 10.3.",
+    "referencia": "Seção 10.3, p. 25",
+    "regra_id": "r085"
+  },
+  {
+    "id": "q078",
+    "tipo": "cenario",
+    "secao": "10. Acesso e credenciamento",
+    "dificuldade": "medio",
+    "enunciado": "Um visitante fotografa o Projeto Teste durante a competição sem aprovação do Avaliador Líder nem da CT. Qual é a consequência prevista?",
+    "opcoes": [
+      "Basta apagar as fotos, sem outra consequência",
+      "É permitido, desde que as fotos não sejam divulgadas",
+      "O competidor dono do projeto é penalizado",
+      "Fica sujeito ao procedimento de Resolução de Disputa da Seção 14"
+    ],
+    "resposta": 3,
+    "explicacao": "O item 10.4.2 proíbe expressamente fotografar o Projeto Teste sem aprovação, e quem viola fica sujeito à Resolução de Disputa (Seção 14).",
+    "referencia": "Seção 10.4.2, p. 26",
+    "regra_id": "r085"
+  },
+  {
+    "id": "q079",
+    "tipo": "multipla",
+    "secao": "10. Acesso e credenciamento",
+    "dificuldade": "medio",
+    "enunciado": "O que vale para filmagem ou fotografia no ambiente de competição antes do início das provas?",
+    "opcoes": [
+      "É proibida, mas a Mídia Oficial pode ter exceção autorizada pela CT",
+      "É livre para a Mídia Oficial, sem necessidade de autorização",
+      "Depende apenas de autorização do Avaliador Líder",
+      "É proibida para todos, sem exceção"
+    ],
+    "resposta": 0,
+    "explicacao": "O item 10.4.1 proíbe, mas admite exceção para a Mídia Oficial com autorização da CT.",
+    "referencia": "Seção 10.4.1, p. 26",
+    "regra_id": "r085"
+  },
+  {
+    "id": "q080",
+    "tipo": "multipla_varias",
+    "secao": "11. Sustentabilidade",
+    "dificuldade": "facil",
+    "enunciado": "Quais são os princípios-chave de sustentabilidade citados no regulamento? (marque todos que se aplicam)",
+    "opcoes": [
+      "Reduzir",
+      "Reciclar",
+      "Recuperar",
+      "Reutilizar",
+      "Repensar",
+      "Restaurar"
+    ],
+    "resposta": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explicacao": "O item 11.1 cita Reduzir, Reciclar, Reutilizar e Repensar.",
+    "referencia": "Seção 11.1, p. 26",
+    "regra_id": "r086"
+  },
+  {
+    "id": "q081",
+    "tipo": "associar",
+    "secao": "11. Sustentabilidade",
+    "dificuldade": "dificil",
+    "enunciado": "Associe cada ODS citado no regulamento ao seu número:",
+    "opcoes": [
+      [
+        "Objetivo 4",
+        "Educação de qualidade"
+      ],
+      [
+        "Objetivo 5",
+        "Igualdade de gênero"
+      ],
+      [
+        "Objetivo 8",
+        "Trabalho decente e crescimento econômico"
+      ],
+      [
+        "Objetivo 9",
+        "Indústria, inovação e infraestrutura"
+      ],
+      [
+        "Objetivo 12",
+        "Consumo e produção responsáveis"
+      ]
+    ],
+    "resposta": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explicacao": "ODS listados no item 11.1 (também cita o Objetivo 10, Redução das desigualdades).",
+    "referencia": "Seção 11.1, p. 26",
+    "regra_id": "r086"
+  },
+  {
+    "id": "q082",
+    "tipo": "multipla",
+    "secao": "12. Saúde e segurança",
+    "dificuldade": "medio",
+    "enunciado": "Quem deve garantir que os Competidores e Avaliadores da delegação conheçam os regulamentos de Saúde Ocupacional e Segurança do Trabalho antes da competição?",
+    "opcoes": [
+      "O Chefe de Oficina",
+      "O Delegado Técnico",
+      "A CT WorldSkills Brasil",
+      "O Avaliador Líder"
+    ],
+    "resposta": 1,
+    "explicacao": "O item 12.1.3 atribui essa responsabilidade ao Delegado Técnico. A infraestrutura dentro da lei é responsabilidade da CT e da IP anfitriã (12.1.2).",
+    "referencia": "Seção 12.1.3, p. 27",
+    "regra_id": "r087"
+  },
+  {
+    "id": "q083",
+    "tipo": "vf",
+    "secao": "12. Saúde e segurança",
+    "dificuldade": "medio",
+    "enunciado": "Garantir que toda a infraestrutura, os equipamentos e as ferramentas estejam de acordo com a legislação nacional é responsabilidade da CT WorldSkills Brasil e da Instituição Participante anfitriã.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "resposta": true,
+    "explicacao": "Verdadeiro. É o que diz o item 12.1.2.",
+    "referencia": "Seção 12.1.2, p. 27",
+    "regra_id": "r087"
+  },
+  {
+    "id": "q084",
+    "tipo": "multipla",
+    "secao": "13. Comunicação e patrocínio",
+    "dificuldade": "dificil",
+    "enunciado": "Qual é a regra para aplicar a logomarca de um patrocinador na camiseta da delegação?",
+    "opcoes": [
+      "150 cm², altura máxima de 10 cm, uma única vez por camiseta",
+      "750 cm², altura máxima de 25 cm, uma única vez por camiseta",
+      "150 cm², altura máxima de 6 cm, uma única vez por camiseta",
+      "150 cm², altura máxima de 6 cm, até duas vezes por camiseta"
+    ],
+    "resposta": 2,
+    "explicacao": "A tabela do item 13.3 fixa, para a camiseta, 150 cm² e altura máxima de 6 cm, uma única vez. 750 cm² / 25 cm é a regra do armário/caixa de ferramentas.",
+    "referencia": "Seção 13.3, p. 27",
+    "regra_id": "r089"
+  },
+  {
+    "id": "q085",
+    "tipo": "vf",
+    "secao": "13. Comunicação e patrocínio",
+    "dificuldade": "facil",
+    "enunciado": "As atividades de marketing são coordenadas pela área de Comunicação do SENAI DN e são optativas para o SENAI DR anfitrião.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "resposta": true,
+    "explicacao": "Verdadeiro. É o que diz o item 13.2.",
+    "referencia": "Seção 13.2, p. 27",
+    "regra_id": "r088"
+  },
+  {
+    "id": "q086",
+    "tipo": "lacuna",
+    "secao": "14. Conflitos e disputas",
+    "dificuldade": "medio",
+    "enunciado": "O processo de Resolução de Conflitos e Disputas cobre todo o período do evento, desde o C-2 até o ____.",
+    "opcoes": [],
+    "resposta": [
+      "C3",
+      "C 3"
+    ],
+    "explicacao": "O item 14.1 delimita o período de C-2 até C3 (terceiro dia de competição).",
+    "referencia": "Seção 14.1, p. 28",
+    "regra_id": "r090"
+  },
+  {
+    "id": "q087",
+    "tipo": "associar",
+    "secao": "14. Conflitos e disputas",
+    "dificuldade": "medio",
+    "enunciado": "Associe cada termo à sua definição:",
+    "opcoes": [
+      [
+        "Conflito",
+        "Diferença de opinião ou de abordagem sobre preparação, gerenciamento ou operação de uma ocupação"
+      ],
+      [
+        "Disputa",
+        "Escalada de um conflito que a SMT não consegue resolver ou que envolve quebra de conduta e ética"
+      ],
+      [
+        "Incidente",
+        "Situação relatada por pessoa não ligada diretamente à ocupação, tratada da mesma forma que uma disputa"
+      ]
+    ],
+    "resposta": [
+      0,
+      1,
+      2
+    ],
+    "explicacao": "Definições do item 14.3.",
+    "referencia": "Seção 14.3, p. 28",
+    "regra_id": "r091"
+  },
+  {
+    "id": "q088",
+    "tipo": "multipla",
+    "secao": "14. Conflitos e disputas",
+    "dificuldade": "medio",
+    "enunciado": "Qual é o prazo máximo para concluir as reuniões da SMT para resolver um conflito na ocupação?",
+    "opcoes": [
+      "Três horas após o início do processo",
+      "24 horas após o registro do conflito",
+      "Uma hora após o início do processo",
+      "Duas horas após o início do processo"
+    ],
+    "resposta": 3,
+    "explicacao": "O item 14.6 fixa o máximo de duas horas. As 3 horas são o prazo de decisão do Comitê de Ouvidoria.",
+    "referencia": "Seção 14.6, p. 29",
+    "regra_id": "r094"
+  },
+  {
+    "id": "q089",
+    "tipo": "multipla",
+    "secao": "14. Conflitos e disputas",
+    "dificuldade": "medio",
+    "enunciado": "Como é composto o Comitê de Ouvidoria e até quando ele deve ser indicado?",
+    "opcoes": [
+      "Cinco membros, indicados pela CT até 15 dias antes da competição",
+      "Três membros, indicados pela CT até 15 dias antes da competição",
+      "Cinco membros, indicados pela CT até 30 dias antes da competição",
+      "Sete membros, indicados pela CEN até 10 dias antes da competição"
+    ],
+    "resposta": 0,
+    "explicacao": "O item 14.7 prevê cinco membros, geralmente Delegados Técnicos, indicados pela CT até 15 dias antes.",
+    "referencia": "Seção 14.7, p. 29",
+    "regra_id": "r095"
+  },
+  {
+    "id": "q090",
+    "tipo": "cenario",
+    "secao": "14. Conflitos e disputas",
+    "dificuldade": "dificil",
+    "enunciado": "Uma reclamação é registrada às 19h. Quando o Comitê de Ouvidoria fará a apuração?",
+    "opcoes": [
+      "No mesmo dia, até as 22h",
+      "Às 9h do dia seguinte",
+      "Em até 3 horas após o registro",
+      "Apenas no C+1"
+    ],
+    "resposta": 1,
+    "explicacao": "A apuração é no mesmo dia se o registro for feito até as 18h; depois disso, fica para as 9h do dia seguinte. As 3 horas contam a partir do início da apuração (14.7).",
+    "referencia": "Seção 14.7, p. 30",
+    "regra_id": "r096"
+  },
+  {
+    "id": "q091",
+    "tipo": "vf",
+    "secao": "14. Conflitos e disputas",
+    "dificuldade": "facil",
+    "enunciado": "A decisão do Comitê de Ouvidoria é final: será aplicada e o caso, encerrado.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "resposta": true,
+    "explicacao": "Verdadeiro. O item 14.7 diz que 'essa decisão é final e será aplicada e o caso encerrado'.",
+    "referencia": "Seção 14.7, p. 29",
+    "regra_id": "r095"
+  },
+  {
+    "id": "q092",
+    "tipo": "multipla",
+    "secao": "14. Conflitos e disputas",
+    "dificuldade": "dificil",
+    "enunciado": "Qual é a sanção de exemplo para um Competidor que comete uma ofensa MEDIANA?",
+    "opcoes": [
+      "Conclui a competição, com penalização de 5 pontos no resultado final",
+      "É desclassificado, com pontuação total de 1 ponto",
+      "Conclui a competição, mas sua pontuação máxima fica 1 ponto abaixo da menor pontuação obtida na ocupação",
+      "Conclui a competição, com penalização de 10 pontos no resultado final"
+    ],
+    "resposta": 2,
+    "explicacao": "Na tabela do item 14.9: ofensa menor = −5 pontos; mediana = pontuação máxima 1 ponto abaixo da menor da ocupação; maior = desclassificação com 1 ponto.",
+    "referencia": "Seção 14.9, p. 30",
+    "regra_id": "r098"
+  },
+  {
+    "id": "q093",
+    "tipo": "lacuna",
+    "secao": "14. Conflitos e disputas",
+    "dificuldade": "dificil",
+    "enunciado": "Se um competidor for retirado da competição, sua pontuação final será de ____ ponto(s) na escala de 0 a 100.",
+    "opcoes": [],
+    "resposta": [
+      "1",
+      "01",
+      "um"
+    ],
+    "explicacao": "O item 14.9 fixa em 01 (um) ponto a pontuação final de quem é retirado.",
+    "referencia": "Seção 14.9, p. 30",
+    "regra_id": "r097"
+  },
+  {
+    "id": "q094",
+    "tipo": "ordenar",
+    "secao": "14. Conflitos e disputas",
+    "dificuldade": "dificil",
+    "enunciado": "Ordene as etapas do fluxo de Resolução de Conflitos quando a decisão não é aceita pelas partes:",
+    "opcoes": [
+      "Conflito surge na ocupação",
+      "SMT busca a resolução dentro da ocupação",
+      "Questão segue para a CT WorldSkills Brasil",
+      "Questão é levada ao Comitê de Ouvidoria",
+      "Decisão final do Comitê de Ouvidoria e registro no Formulário de Disputas"
+    ],
+    "resposta": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explicacao": "Pelo diagrama do item 14.10 e pelos itens 14.5 a 14.7: SMT → (decisão não aceita) CT → (não aceita) Comitê de Ouvidoria, cuja decisão é final e registrada.",
+    "referencia": "Seções 14.5–14.7 e 14.10, p. 28–31",
+    "regra_id": "r093"
+  },
+  {
+    "id": "q095",
+    "tipo": "vf",
+    "secao": "14. Conflitos e disputas",
+    "dificuldade": "medio",
+    "enunciado": "Se uma suposta violação envolver a própria Comissão do Júri, a denúncia vai diretamente ao Presidente do Comitê de Ouvidoria.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "resposta": true,
+    "explicacao": "Verdadeiro. É o que diz o item 14.4. Nos demais casos, a denúncia vai a um membro do Júri ou da SMT.",
+    "referencia": "Seção 14.4, p. 28",
+    "regra_id": "r092"
+  },
+  {
+    "id": "q096",
+    "tipo": "associar",
+    "secao": "17. Acrônimos",
+    "dificuldade": "facil",
+    "enunciado": "Associe cada sigla ao seu significado:",
+    "opcoes": [
+      [
+        "C-1",
+        "Dia anterior ao início da competição"
+      ],
+      [
+        "C+1",
+        "Dia posterior à finalização da competição"
+      ],
+      [
+        "CO",
+        "Chefe de Oficina"
+      ],
+      [
+        "GPA",
+        "Guia de Padrões e Avaliação"
+      ],
+      [
+        "IL",
+        "Lista de Infraestrutura"
+      ]
+    ],
+    "resposta": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explicacao": "Significados da lista de acrônimos (Seção 17).",
+    "referencia": "Seção 17, p. 35",
+    "regra_id": "r100"
+  }
+]
